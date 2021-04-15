@@ -171,6 +171,8 @@ button:hover {
     justify-content: center;
     background-color:rgb(255, 255, 255);
     margin: 0, 30%;
+    width: 600px;
+    height: auto;
     
     
     
@@ -198,6 +200,12 @@ button:hover {
         margin-left: 30%;
         margin-right: 30%;
     }
+    .img-sub{
+        height: 800px;
+        width: auto;
+
+    }
+    
 
 }
 
