@@ -177,7 +177,7 @@ button:hover {
 
 
 
-@media  (min-width: 1000px) {
+@media  (min-width: 850px) {
     .grid {
         grid-template-columns: repeat(2, 1fr);
         grid-template-rows: repeat(2, 1fr);
